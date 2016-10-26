@@ -2646,7 +2646,7 @@ $c_Lnl_quintor_reveal_package$.prototype.revealImg__T__Lscalatags_Text$TypedTag 
   var ns = null;
   $m_Lscalatags_Text$all$();
   var raw = false;
-  return jsx$1.apply__sc_Seq__Lscalatags_Text$TypedTag(new $c_sjs_js_WrappedArray().init___sjs_js_Array([$s_Lscalatags_generic_Util$class__attr__Lscalatags_generic_Util__T__Lscalatags_generic_Namespace__Z__Lscalatags_generic_Attr(this$3, "data-src", ns, raw).$$colon$eq__O__Lscalatags_generic_AttrValue__Lscalatags_generic_AttrPair(new $c_s_StringContext().init___sc_Seq(new $c_sjs_js_WrappedArray().init___sjs_js_Array(["./target/scala-2.11/classes/", ""])).s__sc_Seq__T(new $c_sjs_js_WrappedArray().init___sjs_js_Array([src])), $m_Lscalatags_Text$all$().stringAttr$1)]))
+  return jsx$1.apply__sc_Seq__Lscalatags_Text$TypedTag(new $c_sjs_js_WrappedArray().init___sjs_js_Array([$s_Lscalatags_generic_Util$class__attr__Lscalatags_generic_Util__T__Lscalatags_generic_Namespace__Z__Lscalatags_generic_Attr(this$3, "data-src", ns, raw).$$colon$eq__O__Lscalatags_generic_AttrValue__Lscalatags_generic_AttrPair(new $c_s_StringContext().init___sc_Seq(new $c_sjs_js_WrappedArray().init___sjs_js_Array(["./publish/assets/", ""])).s__sc_Seq__T(new $c_sjs_js_WrappedArray().init___sjs_js_Array([src])), $m_Lscalatags_Text$all$().stringAttr$1)]))
 });
 $c_Lnl_quintor_reveal_package$.prototype.frontpage__T__Lscalatags_Text$TypedTag = (function(name) {
   var this$2 = $m_Lscalatags_Text$all$();
