@@ -20,7 +20,7 @@ package object reveal {
   lazy val inlinequote = tag("q")
   lazy val etc = li("...")
 
-  def revealImg(src:String) = img(attr("data-src") := s"./target/scala-2.11/classes/${src}")
+  def revealImg(src:String) = img(attr("data-src") := s"./publish/assets/${src}")
 
   def revealIframe( src: String) = {
     iframe(height:="1000px", width:="1000px",
