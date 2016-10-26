@@ -14,6 +14,6 @@ libraryDependencies ++= Seq(
 
 jsDependencies ++= Seq(
   RuntimeDOM,
-  "org.webjars.bower" % "headjs" % "1.0.3" / "1.0.0/head.min.js" ,
+  "org.webjars.bower" % "headjs" % "1.0.3" / "1.0.0/head.min.js",
   "org.webjars.bower" % "reveal.js" % "3.3.0" / "reveal.js" dependsOn "1.0.0/head.min.js"
-  )
+)
